@@ -35,8 +35,8 @@ I code with gadgets, deploy with luck, and debug with instinct. 💻⚙️
 
 ## 🧠 Mission Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inspegadget&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inspegadget&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
